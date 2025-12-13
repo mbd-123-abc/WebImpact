@@ -1,3 +1,6 @@
+/*Mahika Bagri*/
+/*December 12 2025*/
+
 import Link from "next/link";
 import Image from "next/image";
 
