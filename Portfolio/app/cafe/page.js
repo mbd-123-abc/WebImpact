@@ -1,5 +1,5 @@
 /*Mahika Bagri*/
-/*December 12 2025*/
+/*December 15 2025*/
 
 
 export default function Cafe() {
@@ -7,7 +7,7 @@ export default function Cafe() {
     <div style={{ width: "100vw", height: "100vh" }}>
       <Link href="/cafe">
         <img
-          src="/public/PortfolioEntry.png"
+          src="/public/Cafe.png"
         />
       </Link>
     </div>
