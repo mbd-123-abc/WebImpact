@@ -30,6 +30,15 @@ export default function Cafe() {
         height: "15%"
         }}
       />
+      <Link href="/contact"  
+        className="absolute z-10"
+        style={{
+        top: "50%",
+        left: "72%",
+        width: "8%",
+        height: "10%"
+        }}
+      />
     </div>
   );
 }
