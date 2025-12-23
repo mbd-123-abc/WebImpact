@@ -1,3 +1,6 @@
+/*Mahika Bagri*/
+/*December 23 2025*/
+
 import { Permanent_Marker } from "next/font/google"; 
 import { Nunito } from "next/font/google"; 
 import { Bebas_Neue } from "next/font/google"; 
